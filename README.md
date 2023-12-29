@@ -62,7 +62,7 @@ Give a ⭐️ if this project helped you!
     
     bashCopy code
     
-    `python remover.py`
+    `python main.py`
 
 Contributing 🤝
 ---------------
