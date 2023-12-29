@@ -47,23 +47,40 @@ Give a ⭐️ if this project helped you!
 
 👤 Made by @LikhonScripts
 
-vbnet
-Copy code
+2.  **Install Dependencies**:
+    
+    bashCopy code
+    
+    `pip install telethon rich`
+    
+3.  **Set Up Your Telegram API Credentials**:
+    
+    *   Obtain your `API_ID` and `API_HASH` from my.telegram.org.
+    *   Replace `'API_ID'` and `'API_HASH'` in the script with your actual Telegram API credentials.
+    *   Replace `'USERNAME'` with the target channel's username.
+4.  **Run the Script**:
+    
+    bashCopy code
+    
+    `python remover.py`
 
-### Notes for the `README.md`:
+Contributing 🤝
+---------------
 
-1. **Screenshot**: The image is embedded at the top for visual appeal. Make sure the link to the screenshot is correct and publicly accessible.
+Contributions, issues, and feature requests are welcome! Feel free to check issues page.
 
-2. **Features**: A concise list of the tool's key features.
+Show Your Support 💖
+--------------------
 
-3. **Getting Started**: Step-by-step instructions on how to set up and use the tool.
+Give a ⭐️ if this project helped you!
 
-4. **Community Links**: Links to your Telegram channels for updates and community support.
+* * *
 
-5. **Contributing**: Encouragement for community contributions.
 
-6. **Support**: A call-to-action for users to star the repository if they find it helpful.
+Join Our Community 🌐
+---------------------
 
-7. **Credits**: A credit section acknowledging your authorship.
+Stay updated and get support by joining our Telegram channels:
 
-Remember to review and adjust the `README.md` to ensure all information is accurate and relevan
+*   [LikhonScripts](https://t.me/LikhonScripts) - For updates and discussions about this tool and more.
+*   [LikhonxSheikh](https://t.me/LikhonxSheikh) - For general community interactions and insights.
