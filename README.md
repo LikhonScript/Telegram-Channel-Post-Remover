@@ -28,7 +28,7 @@ Set Up Your Telegram API Credentials:
 
 Obtain your API_ID and API_HASH from my.telegram.org.
 Replace 'API_ID' and 'API_HASH' in the script with your actual Telegram API credentials.
-Replace 'USERNAME' with the target channel's username.
+Replace 'channel_id' with the target channel's id.
 Run the Script:
 
 bash
@@ -57,7 +57,7 @@ Give a ⭐️ if this project helped you!
     
     *   Obtain your `API_ID` and `API_HASH` from my.telegram.org.
     *   Replace `'API_ID'` and `'API_HASH'` in the script with your actual Telegram API credentials.
-    *   Replace `'USERNAME'` with the target channel's username.
+    *   Replace 'channel_id' with the target channel's id.
 4.  **Run the Script**:
     
     bashCopy code
